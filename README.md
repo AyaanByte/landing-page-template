@@ -12,7 +12,7 @@ complete with interactive UI elements like hover effects, animated buttons, and 
 - 🧱 CardView-style layout for featured items
 - ⚡ Smooth animations and transitions
 
-![Home Page Preview](website/landing-page-template/img/screenshots/home.png)
+![Home Page Preview](/landing-page-template/website/img/screenshots/HOME.png)
 
 
 ## 🔧 Technologies Used
